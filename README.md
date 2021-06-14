@@ -1,6 +1,6 @@
 <h1 align=center>Blur IT </h1>
 
-<h4 align=center>This theme is Made by ara#0002</h4>
+<h4 align=center>This theme is Made by Gara#0002</h4>
 <hr>
 <p align=center>
  | <a href="https://discord.gg/59EF7K5qVE" align=center>Discord</a> |
