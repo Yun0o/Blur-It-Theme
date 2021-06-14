@@ -1,4 +1,4 @@
-<h1 align=center>Blur IT</h1>
+<h1 align=center>Blur IT m</h1>
 
 <h4 align=center>This theme is Made by ara#0002</h4>
 <hr>
